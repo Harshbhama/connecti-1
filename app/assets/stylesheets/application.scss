@@ -15,12 +15,20 @@
  */
 
 body{
+	background-image: url(https://i.pinimg.com/564x/59/f4/0d/59f40d71c71f236b139c8ee688dea989.jpg);
+	background-size: cover;
+    background-position: center;
 	margin: 0;
+	    background-size: 267vh;
 
 	#common-header{
 		display: flex;
 		justify-content: space-around;
 		box-shadow: 1px 1px 1px 1px lightgrey;
+		background-image: url(background-brick-bricks-220182.jpg);
+		margin-bottom: -2%;
+		background-size: cover;
+    	background-position: center;
 
 
 		.logo{
